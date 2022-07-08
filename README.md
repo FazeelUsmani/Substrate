@@ -18,3 +18,6 @@ Docs: https://docs.substrate.io/main-docs/
 | Blockchain Basics | https://docs.substrate.io/main-docs/fundamentals/blockchain-basics/ | 
 | Why Substrate? | https://docs.substrate.io/main-docs/fundamentals/why-substrate/ |
 |Architecture | https://docs.substrate.io/main-docs/fundamentals/architecture/ |
+develop smart contracts and much more. 
+Enjoy the journey!
+Docs: https://docs.substrate.io/main-docs/
